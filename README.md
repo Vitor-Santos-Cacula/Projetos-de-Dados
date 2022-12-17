@@ -21,7 +21,7 @@ Manipulo, analiso conjuntos de dados e desenvolvo visualizações em dashboards 
 
 ## Projetos:
 
-* **Análise projeto +BIKE:**
+* **Análise dos Dados Airbnb:** https://bit.ly/3hvPi6j
 
 
 ---
